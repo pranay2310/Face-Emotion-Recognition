@@ -1,0 +1,8 @@
+av==9.2.0
+keras==2.8.0
+numpy==1.22.3
+tensorflow==2.8.0
+opencv_contrib_python_headless==4.5.5.62
+Pillow==9.1.0
+streamlit==1.9.2
+streamlit_webrtc==0.37.0
